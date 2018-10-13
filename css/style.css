@@ -7700,7 +7700,7 @@ textarea.form-control {
     color: #0962ea; }
   .media-custom .media-body .position {
     font-size: 13px;
-    color: #d9d9d9; }
+    color: #636363; }
 
 .about-author img {
   border-radius: 50%; }
@@ -7903,7 +7903,7 @@ textarea.form-control {
   padding: 15px; }
   @media (min-width: 768px) {
     .ftco-section-2 .section-2-blocks-wrapper .text {
-      padding: 10% 7%; } }
+      padding: 3% 6%; } }
   .ftco-section-2 .section-2-blocks-wrapper .text h3 {
     margin-bottom: 50px; }
 
@@ -8034,7 +8034,7 @@ textarea.form-control {
     color: #0962ea; }
   .testimony-wrap .position {
     font-size: 13px;
-    color: #d9d9d9; }
+    color: #575757; }
 
 .pricing {
   border: 2px dashed #dbe9fe;
